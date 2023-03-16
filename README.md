@@ -4,7 +4,7 @@
 
 -Integrantes del equipo: 
 
-  .Donovan
+  .Donovan Chigozie Obialla Hernandez
   
   .Santiago Galindo Hernandez
   
